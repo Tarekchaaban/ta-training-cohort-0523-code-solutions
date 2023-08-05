@@ -69,7 +69,8 @@
         "**/*.html"
       ],
       "plugins": [
-        "eslint-plugin-html"
+        "eslint-plugin-html",
+        "jest"
       ]
     }
   ]
